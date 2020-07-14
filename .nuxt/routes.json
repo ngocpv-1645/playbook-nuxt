@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-id",
+    "path": "/articles/:id?",
+    "component": "/Users/pham.van.ngoc/Project/strapi-playbook-nuxt-blog/pages/articles/_id.vue",
+    "chunkName": "pages/articles/_id",
+    "_name": "_9461af46"
+  },
+  {
+    "name": "categories-id",
+    "path": "/categories/:id?",
+    "component": "/Users/pham.van.ngoc/Project/strapi-playbook-nuxt-blog/pages/categories/_id.vue",
+    "chunkName": "pages/categories/_id",
+    "_name": "_1a0f09fc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/pham.van.ngoc/Project/strapi-playbook-nuxt-blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_abd8fba6"
+  }
+]
