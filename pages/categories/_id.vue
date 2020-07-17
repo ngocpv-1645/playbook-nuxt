@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <client-only>
     <div class="uk-section">
       <div class="uk-container uk-container-large">
